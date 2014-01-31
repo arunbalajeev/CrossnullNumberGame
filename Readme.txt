@@ -1,18 +1,22 @@
-This is a Single player Number Game
+A Number Game- Single Player
 
-Visual C++: MS Visual Studio
+Developed in Visual C++ (MS Visual Studio)
+
+Begin Game: Debug/CrossNull.exe
 
 Features:
+1) Interactive Single player game developed in Visual C++
+2) Improve analytical skills
+3) It just provide a basic platform for a number game development.
 
-1) Analytical Skills
-2) Interactive game of arranging numbers to maximize
-   row and minimize column
+Scope of Improvement:
 
-Improvements:
+1) Scores can be clearly defined and create database for the same.
+2) Can be made into a multiplayer game
+3) Employment of more rigorous mathematical calculations
+Scope do not end but to my imagination
 
-More scope of improvement indesign, mode...
 
-
-Arun Balajee Vasudevan
+Arun Balajee Vasudevan 
 Indian Institute of Technology Jodhpur
-arunbalajeev@iitj.ac.in 
+arunbalajeev@iitj.ac.in
